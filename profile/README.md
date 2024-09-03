@@ -1,7 +1,3 @@
-Here's the updated README for Genji Labs, featuring your project **FamDocs**:
-
----
-
 # Genji Labs
 
 Welcome to **Genji Labs**! We're a community of tinkerers, coders, and open-source enthusiasts dedicated to pushing the boundaries of technology. Our mission is to create innovative software solutions that are open, transparent, and accessible to everyone. At Genji Labs, we believe in the power of collaboration and the magic of curiosity.
@@ -48,11 +44,3 @@ If you like what we’re doing and want to support our work, there are a few way
 ## Contact Us
 
 Got questions? Want to collaborate? Drop us a line at [contact@genjilabs.com](mailto:contact@genjilabs.com). We’d love to hear from you!
-
----
-
-Thank you for being part of the Genji Labs journey. Together, let’s build something amazing!
-
----
-
-Feel free to customize this README further to fit your needs!
