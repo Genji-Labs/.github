@@ -8,7 +8,7 @@ Genji Labs is a playground for those who love to explore the unexplored. Our tea
 
 ## What We Do
 
-At Genji Labs, we specialize in open-source software development. Here, you’ll find a diverse range of projects, from cutting-edge AI tools to innovative web frameworks and everything in between. We’re constantly experimenting, prototyping, and refining our ideas. Our work is driven by a love for technology and a commitment to openness.
+At Genji Labs, we specialize in open-source software development. Here, you’ll find a diverse range of projects, from innovative web frameworks to down-to-the-byte system libraries and everything in between. We’re constantly experimenting, prototyping, and refining our ideas. Our work is driven by a love for technology and a commitment to openness.
 
 ### Our Core Values
 
