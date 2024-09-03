@@ -31,16 +31,14 @@ Here’s a highlight of one of our key projects:
 
 - **FamDocs**: A user-friendly file-sharing platform designed to simplify document sharing within families and small communities. With FamDocs, you can securely share files, manage permissions, and ensure that everyone stays in sync. Built with privacy and ease of use in mind, FamDocs is perfect for keeping your family's documents organized and accessible.
 
-Check out our [project page](https://github.com/genjilabs) for more details and updates!
+Check out our [project page](https://github.com/Genji-Labs/famdocs-zoo.git) for more details and updates!
 
 ## Support Us
 
 If you like what we’re doing and want to support our work, there are a few ways you can help:
 
-- **Sponsor Us**: Consider becoming a [GitHub Sponsor](https://github.com/sponsors/genjilabs) to help fund our projects.
-- **Donate**: We accept donations via [Patreon](https://patreon.com/genjilabs) and [PayPal](https://paypal.me/genjilabs).
 - **Spread the Word**: Share our projects with your friends and followers to help us grow our community.
 
 ## Contact Us
 
-Got questions? Want to collaborate? Drop us a line at [contact@genjilabs.com](mailto:contact@genjilabs.com). We’d love to hear from you!
+Got questions? Want to collaborate? Drop us a line at [contact@genjilabs.com](mailto:oromapinc@gmail.com). We’d love to hear from you!
