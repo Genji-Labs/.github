@@ -41,4 +41,4 @@ If you like what we’re doing and want to support our work, there are a few way
 
 ## Contact Us
 
-Got questions? Want to collaborate? Drop us a line at [contact@genjilabs.com](mailto:oromapinc@gmail.com). We’d love to hear from you!
+Got questions? Want to collaborate? Drop us a line at our email(mailto:oromapinc@gmail.com). We’d love to hear from you!
